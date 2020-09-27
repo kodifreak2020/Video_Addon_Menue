@@ -3,15 +3,15 @@
 <channels> 
 <channel> 
 <name>[B]German TV 0 - Woppegong[/B]</name> 
-<thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
+<thumbnail>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/menu</externallink> 
-<fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
+<fanart>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</fanart> 
 <info></info> 
 </channel>
 
 <channels> 
 <channel> 
-<name>[B]German TV 1[/B]</name> 
+<name>[B]German TV 1 - SamsungFreak[/B]</name> 
 <thumbnail>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/kodifreak2020/M3U_Menue/master/DE_TV_1.m3u</externallink> 
 <fanart>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</fanart> 
@@ -20,7 +20,7 @@
 
 <channels> 
 <channel> 
-<name>[B]German TV 2[/B]</name> 
+<name>[B]German TV 2 - SamsungFreak[/B]</name> 
 <thumbnail>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/kodifreak2020/M3U_Menue/master/DE_TV_2.m3u</externallink> 
 <fanart>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</fanart> 
