@@ -1,1 +1,19 @@
+<layouttype>thumbnail</layouttype> 
 
+<channels> 
+<channel> 
+<name>[B]German VOD 1[/B]</name> 
+<thumbnail>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</thumbnail> 
+<externallink>   </externallink> 
+<fanart>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</fanart>
+<info></info> 
+</channel> 
+<channels> 
+
+<channel> 
+<name>[B]German VOD 2[/B]</name> 
+<thumbnail>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</thumbnail> 
+<externallink>http://sgkodi.de/Portal/Filme/XML/sgk_filme_vod.xml</externallink> 
+<fanart>https://ia902806.us.archive.org/24/items/german1_202002/German_1.jpg</fanart> 
+<info></info> 
+</channel>
